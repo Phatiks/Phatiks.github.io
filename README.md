@@ -11,3 +11,17 @@
 
 **Dashboard Overview:**
 ![Udemy_Dashboard](Udemy_Dashboard.png)
+
+# Project 2
+**Title:** [Adidas US Interactive Sales Dashboard](https://github.com/Phatiks/Phatiks.github.io/blob/main/First%20Dashboard.xlsx)
+
+
+**Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Conditional formatting, Slicers)
+
+**Project Description:** 
+ 
+
+**Key findings:**
+
+**Dashboard Overview:**
+![Addidas1](Addidas1.png)
