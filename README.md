@@ -35,18 +35,33 @@ This dashboard serves as a crucial tool for the Udemy Online Educational Platfor
 
 # Project 2
 
-**Title:** 
+**Title: Manchester Council Parking Ticket Business Intellignece
 
 **SQL Code:** [Emloyee data queries](https://github.com/Phatiks/Phatiks.github.io/blob/main/employee.sql)
 
 **SQL Skills Used:** 
 1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
-2. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+2. Data Aggregation (SUM, COUNT): Calculated totals, such as total payment of tickets and outstandings, and counted records to analyze data trends.
 3. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval
  
 
 **Project Description:**
+This project involved analysing the Parking Ticket fines issued by Manchester Council to identify trends and patterns in the revenue generated for June 2021. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyse the Council’s Tax Force performance across different regions, wards, and time periods. The dashboard includes the following features:
+
+
+Total Offence by Ticket Status: Visual representation of parking offences by the type of ticket issued to the offender.
+Total Payment by Ticket Status: Displays the payment made by offenders depending on the type of ticket issued providing insights into revenue generated over time.
+Total Outstanding Payment by Total paid: Displays the outstanding payment from offenders compared to those that have paid, allowing for easy comparison of profitability throughout the month.
+
+
+Additionally, the dashboard includes interactive slicers and timeline for:
+Location: Filter the data to view performance for a specific location.
+Issued: Focus on the day’s fines were issued to determine days of the week parking offences are more made.
+Ward: Drill down into the ward that contribute more in parking offences.
+Zones: Drill down into the zones to determine each zones contribution in traffic offences.
+
+
 
 **Technology used:** SQL server
  
