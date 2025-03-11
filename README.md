@@ -35,9 +35,9 @@ This dashboard serves as a crucial tool for the Udemy Online Educational Platfor
 
 # Project 2
 
-**Title: Manchester Council Parking Ticket Business Intellignece
-
-**SQL Code:** [Emloyee data queries](https://github.com/Phatiks/Phatiks.github.io/blob/main/employee.sql)
+**Title**: Manchester Council Parking Ticket Business Intellignece Data
+  
+**SQL Code:** [Manchester Council Parking Ticket Fines Data Queries](https://github.com/Phatiks/Phatiks.github.io/blob/main/Manchester%20Council%20Parking%20Ticket%20Fines.sql)
 
 **SQL Skills Used:** 
 1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
@@ -62,6 +62,8 @@ Ward: Drill down into the ward that contribute more in parking offences.
 Zones: Drill down into the zones to determine each zones contribution in traffic offences.
 
 
-
 **Technology used:** SQL server
+
+**Dashboard Overview:**
+![Manchester_Dashboard](Manchester_Dashboard.png)
  
