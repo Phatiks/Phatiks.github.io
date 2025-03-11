@@ -35,7 +35,7 @@ This dashboard serves as a crucial tool for the Udemy Online Educational Platfor
 
 # Project 2
 
-**Title**: Manchester Council Parking Ticket Fines Business Intelligence Data
+**Title**: Manchester Council Parking Ticket Fines Business Intelligence Insight
   
 **SQL Code:** [Manchester Council Parking Ticket Fines Data Queries](https://github.com/Phatiks/Phatiks.github.io/blob/main/Manchester%20Council%20Parking%20Ticket%20Fines.sql)
 
